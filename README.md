@@ -6,4 +6,5 @@ This Repo is collection of various Low Level Design Patterns Question. Solutions
 <br>
 <br>
 
-![image](https://github.com/user-attachments/assets/f10a4735-9a89-47fe-9fc6-bf5a05b57df7)
+<img width="551" alt="LLD_Roadmap_Concept_Coding" src="https://github.com/user-attachments/assets/2bce70e8-2a8c-47a4-89d6-cae799cde555">
+
