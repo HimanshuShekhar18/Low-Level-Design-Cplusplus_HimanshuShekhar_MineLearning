@@ -1,5 +1,6 @@
 # Low-Level-Design-Premier
-This Repo is collection of various Low Level Design Patterns Question. Solutions Consists of UML Diagram, Code and Comprehensive Approach and Explanation in C++.
+This Repo is a collection of various Low-Level Design Patterns Questions, Solutions Consisting of UML diagrams, a Comprehensive Approach, and Code Explanation in C++.
+All Design Patterns are Covered along with UML Diagrams.
 
 <br>
 <br>
