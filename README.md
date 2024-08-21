@@ -4,11 +4,11 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 <br>
 <br>
 
-## Topic Covered
+# Topic Covered
 <img width="551" alt="LLD_Roadmap_Concept_Coding" src="https://github.com/user-attachments/assets/2bce70e8-2a8c-47a4-89d6-cae799cde555">
 
 
-# QUESTIONS LIST
+## QUESTIONS LIST
 
 ➤ 𝐄𝐚𝐬𝐲
 1. Design URL Shortener like TinyURL
