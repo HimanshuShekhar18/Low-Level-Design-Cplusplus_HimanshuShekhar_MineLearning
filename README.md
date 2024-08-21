@@ -25,7 +25,7 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 <br>
 
 ➤ 𝐌𝐞𝐝𝐢𝐮𝐦
-11. Design Instagram 
+11. Design Instagram
 12. Design Tinder
 13. Design WhatsApp
 14. Design Facebook
@@ -48,6 +48,8 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 31. Design an Analytics Platform (Metrics & Logging)
 32. Design Notification Service
 33. Design Payment System
+![image](https://github.com/user-attachments/assets/2a62804f-9608-4892-adec-06ad52c33e11)
+
 
 <br>
 
