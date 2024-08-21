@@ -13,6 +13,7 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 ## QUESTIONS LIST
 
 ➤ 𝐄𝐚𝐬𝐲
+
 1. Design URL Shortener like TinyURL
 2. Design Text Storage Service like Pastebin
 3. Design Content Delivery Network (CDN)
@@ -27,8 +28,8 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 <br>
 
 ➤ 𝐌𝐞𝐝𝐢𝐮𝐦
-11. Design Instagram
 
+11. Design Instagram
 12. Design Tinder
 13. Design WhatsApp
 14. Design Facebook
@@ -56,8 +57,8 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 <br>
 
 ➤ 𝐇𝐚𝐫𝐝
-34. Design Location Based Service like Yelp
 
+34. Design Location Based Service like Yelp
 35. Design Uber
 36. Design Food Delivery App like Doordash
 37. Design Google Docs
