@@ -22,6 +22,8 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 9. Design Authentication System
 10. Design Unified Payments Interface (UPI)
 
+<br>
+
 ➤ 𝐌𝐞𝐝𝐢𝐮𝐦
 11. Design Instagram
 12. Design Tinder
@@ -46,6 +48,8 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 31. Design an Analytics Platform (Metrics & Logging)
 32. Design Notification Service
 33. Design Payment System
+
+<br>
 
 ➤ 𝐇𝐚𝐫𝐝
 34. Design Location Based Service like Yelp
