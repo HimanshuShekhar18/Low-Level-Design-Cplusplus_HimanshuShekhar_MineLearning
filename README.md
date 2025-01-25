@@ -16,6 +16,7 @@ This Repo is a collection of Low-Level Design Patterns Concepts, Questions, and 
 
 Design Pizza Billing System
 Design Weather Station ( Page 94. Head First Design Pattern )
+Design a Parking Lot
 1. Design URL Shortener like TinyURL
 2. Design Text Storage Service like Pastebin
 3. Design Content Delivery Network (CDN)
