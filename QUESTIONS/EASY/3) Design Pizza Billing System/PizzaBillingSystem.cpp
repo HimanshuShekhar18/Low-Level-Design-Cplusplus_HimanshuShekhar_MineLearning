@@ -76,6 +76,4 @@ int main(){
 
       shared_ptr<BasePizza> pizza4 = make_shared<MushRoom>(make_shared<ExtraCheese>(make_shared<Vegdelight>()));
       cout << pizza4->cost() << endl;
-
-
 }
